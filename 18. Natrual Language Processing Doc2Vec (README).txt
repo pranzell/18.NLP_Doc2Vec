@@ -1,0 +1,7 @@
+18. Natrual Language Processing Doc2Vec
+
+This repository dives into the basics of a Doc2Vec Module.
+
+It shows us how to compute similarity between two documents. 
+
+Documents can be of any length or in some specifc case, one document can contain a user's query and other documents can be text files from where the query will be asked and Doc2Vec can be used to show the similarity between that query and other documents.
